@@ -16,5 +16,5 @@ http://digitalcreativejobs.com
 
 #Contact!
 
-(@tosbourn)[https://twitter.com/tosbourn]
-(tosbourn.com)[http://tosbourn.com]
+[@tosbourn][https://twitter.com/tosbourn]
+[tosbourn.com][http://tosbourn.com]
