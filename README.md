@@ -10,6 +10,15 @@ All major networks have a URL you can pass stuff to, that is what we have used i
 
 Yeah, I am not a designer but you can target them using classes and style as you see fit.
 
+#Sites covered
+
+* Facebook
+* Twitter
+* Google+
+* Reddit
+* Hacker News
+* BufferApp
+
 #Real world examples?
 
 * http://tosbourn.com
