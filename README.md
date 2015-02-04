@@ -28,3 +28,7 @@ Yeah, I am not a designer but you can target them using classes and style as you
 
 * [@tosbourn](https://twitter.com/tosbourn)
 * [tosbourn.com](http://tosbourn.com)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/tosbourn/nojs-socialshare/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
